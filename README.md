@@ -19,6 +19,3 @@ I'm currently working on improving my skills and learning to become a full-stack
 ![](https://github-contributor-stats.vercel.app/api?username=hammediora&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hammediora&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
