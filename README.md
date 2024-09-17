@@ -15,7 +15,3 @@ I'm currently working on improving my skills and learning to become a full-stack
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hammediora&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
