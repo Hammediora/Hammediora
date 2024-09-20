@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my skills and learning to become a full-stack developer. <br>I'm always eager to collaborate on meaningful projects.<br>I'm particularly interested in expanding my knowledge of tools for full-stack development. <br>I'm exploring the world of cloud development and continuous integration/continuous deployment (CI/CD).<br>Feel free to ask me about any projects I'm currently working on, and I'd be happy to share more about my experiences. <br>Fun fact: In my free time, I enjoy working out and exploring the wilderness(😊)
+I'm currently working on improving my skills and learning to become a full-stack developer. <br>I'm always eager to collaborate on meaningful projects.<br>I'm particularly interested in expanding my knowledge of tools for full-stack development. <br>I'm exploring the world of cloud development and continuous integration/continuous deployment (CI/CD).<br>Feel free to ask me about any projects I'm currently working on, and I'd be happy to share more about my experiences. <br>Fun fact: In my free time, I enjoy working out and exploring the wilderness😊
 
 
 # 💻 Tech Stack:
