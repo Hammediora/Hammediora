@@ -24,6 +24,4 @@ I'm currently delving into **cloud-native development** and learning the best pr
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🌐 Find Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/your-profile/) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/your-profile)
 
