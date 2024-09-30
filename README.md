@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hammed O.</h1>
+<h1 align="center">Hi 👋, I'm Hammed B.</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Cloud Enthusiast | CI/CD Advocate</h3>
 
 <p align="center">
@@ -44,13 +44,13 @@ I'm on a journey to become a **full-stack developer** with a strong passion for 
 
 ## 🔗 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="www.linkedin.com/in/hammed-bello-58a304254" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:Hammedbello97@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
