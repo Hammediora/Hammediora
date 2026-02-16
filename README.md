@@ -114,14 +114,14 @@ I currently work as a Full Stack Engineer and also as an IBM Technical Specialis
 
 <div align="center">
 
-<!-- More reliable mirror for GitHub Readme Stats -->
+<!-- ✅ BEST: self-host your own stats endpoint on Vercel (free). Replace YOUR_STATS_BASE_URL -->
 <img
   width="49%"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://YOUR_STATS_BASE_URL/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
   alt="GitHub stats"
 />
 
-<!-- Reliable: Demolab streak endpoint -->
+<!-- ✅ Stable streak endpoint -->
 <img
   width="49%"
   src="https://streak-stats.demolab.com?user=hammediora&theme=tokyonight&hide_border=true"
@@ -130,10 +130,9 @@ I currently work as a Full Stack Engineer and also as an IBM Technical Specialis
 
 <br/><br/>
 
-<!-- More reliable mirror for Top Langs -->
 <img
   width="52%"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://YOUR_STATS_BASE_URL/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
   alt="Top languages"
 />
 
