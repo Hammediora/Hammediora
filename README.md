@@ -112,16 +112,31 @@ I currently work as a Full Stack Engineer and also as an IBM Technical Specialis
 
 ## GitHub Analytics
 
-<div align="center">
+> If the cards don’t load, they’re auto-generated into `./assets/` by GitHub Actions.  
+> Either way, the highlights below are always accurate.
 
-<img width="49%" src="./assets/github-stats.svg" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=hammediora&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+### Highlights (always visible)
+- Built production-ready full-stack systems using **React / Next.js / Node.js**
+- Strong database design using **PostgreSQL + Prisma**
+- CI/CD automation experience with **GitHub Actions + Jenkins**
+- Cloud deployment experience across **AWS + Azure**
+- IBM Technical Specialist with hands-on enterprise solution exposure
 
-<br/><br/>
+<details>
+  <summary><b>📊 Live Cards (auto-generated)</b></summary>
+  <br/>
 
-<img width="52%" src="./assets/top-langs.svg" alt="Top languages" />
+  <div align="center">
 
-</div>
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=hammediora&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+  <br/><br/>
+
+  <img width="52%" src="./assets/top-langs.svg" alt="Top languages" />
+
+  </div>
+</details>
 
 ---
 
@@ -135,16 +150,6 @@ I currently work as a Full Stack Engineer and also as an IBM Technical Specialis
 />
 
 </div>
-
----
-
-## Highlights
-
-- Built production-ready full-stack systems using **React / Next.js / Node.js**
-- Strong database design using **PostgreSQL + Prisma**
-- CI/CD automation experience with **GitHub Actions + Jenkins**
-- Cloud deployment experience across **AWS + Azure**
-- IBM Technical Specialist with hands-on enterprise solution exposure
 
 ---
 
