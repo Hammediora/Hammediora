@@ -12,30 +12,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Generate GitHub stats SVG
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: hammediora
-          theme: tokyonight
-          hide_border: true
-          show_icons: true
-          output: assets/github-stats.svg
+      - name: Fetch GitHub stats SVG
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" \
+            -o assets/github-stats.svg
 
-      - name: Generate Top languages SVG
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: hammediora
-          theme: tokyonight
-          hide_border: true
-          layout: compact
-          output: assets/top-langs.svg
-          card: top-langs
+      - name: Fetch Top Languages SVG
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" \
+            -o assets/top-langs.svg
 
       - name: Commit and push
         run: |
