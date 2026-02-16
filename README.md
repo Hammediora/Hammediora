@@ -118,8 +118,8 @@ These are the types of systems I enjoy building (real-world, production-oriented
 
 <!-- Main Stats (add cache_seconds + v= to reduce rate limits + bust bad cache) -->
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+  width="49%"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true"
   alt="GitHub stats"
 />
 
@@ -134,8 +134,8 @@ These are the types of systems I enjoy building (real-world, production-oriented
 
 <!-- Top Languages -->
 <img
-  width="50%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+  width="52%"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true"
   alt="Top languages"
 />
 
