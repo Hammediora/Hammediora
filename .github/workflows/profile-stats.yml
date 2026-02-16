@@ -3,7 +3,7 @@ name: Generate GitHub Profile Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # daily 6am UTC
+    - cron: "0 6 * * *"
 
 permissions:
   contents: write
@@ -18,15 +18,17 @@ jobs:
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Fetch GitHub stats SVG
+      - name: Fetch GitHub stats SVG (mirror)
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" \
+          curl -fsSL "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" \
             -o assets/github-stats.svg
+          grep -q "<svg" assets/github-stats.svg
 
-      - name: Fetch Top Languages SVG
+      - name: Fetch Top Languages SVG (mirror)
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" \
+          curl -fsSL "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" \
             -o assets/top-langs.svg
+          grep -q "<svg" assets/top-langs.svg
 
       - name: Commit and push
         run: |
