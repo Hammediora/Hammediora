@@ -114,27 +114,12 @@ I currently work as a Full Stack Engineer and also as an IBM Technical Specialis
 
 <div align="center">
 
-<!-- ✅ BEST: self-host your own stats endpoint on Vercel (free). Replace YOUR_STATS_BASE_URL -->
-<img
-  width="49%"
-  src="https://YOUR_STATS_BASE_URL/api?username=hammediora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
-  alt="GitHub stats"
-/>
-
-<!-- ✅ Stable streak endpoint -->
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=hammediora&theme=tokyonight&hide_border=true"
-  alt="GitHub streak"
-/>
+<img width="49%" src="./assets/github-stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=hammediora&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
 
-<img
-  width="52%"
-  src="https://YOUR_STATS_BASE_URL/api/top-langs/?username=hammediora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
-  alt="Top languages"
-/>
+<img width="52%" src="./assets/top-langs.svg" alt="Top languages" />
 
 </div>
 
@@ -160,16 +145,6 @@ I currently work as a Full Stack Engineer and also as an IBM Technical Specialis
 - CI/CD automation experience with **GitHub Actions + Jenkins**
 - Cloud deployment experience across **AWS + Azure**
 - IBM Technical Specialist with hands-on enterprise solution exposure
-
----
-
-## Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
